@@ -50,7 +50,7 @@
      <Compile Include="Assets\Script\CameraFollow.cs" />
      <Compile Include="Assets\Script\FollowController.cs" />
      <Compile Include="Assets\Script\GroundController.cs" />
-     <Compile Include="Assets\Script\IkemenControl.cs" />
+     <Compile Include="Assets\Script\IkemenControll.cs" />
      <Compile Include="Assets\Script\PickupSpawner.cs" />
      <Compile Include="Assets\Script\PlayerAnimationController.cs" />
      <Compile Include="Assets\Script\PlayerControl.cs" />
